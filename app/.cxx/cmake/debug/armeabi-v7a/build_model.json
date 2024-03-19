@@ -1,0 +1,65 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\computerknowledge\\opengl\\sdlapp-master",
+      "sdkFolder": "E:\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app",
+      "makeFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\.cxx",
+      "cxxFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx",
+      "ndkFolder": "E:\\sdk\\ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "X86"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "X86"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+  "jsonFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a",
+  "buildCommandFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\build_generation_state.json",
+    "cacheKeyFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\compile_commands.json"
+}

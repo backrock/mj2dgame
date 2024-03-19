@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "sdl2_image-Release-armeabi-v7a": {
+      "artifactName": "sdl2_image",
+      "abi": "armeabi-v7a",
+      "output": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\src\\main\\jniLibs\\armeabi-v7a\\libSDL2_image.so"
+    },
+    "sdl2_lib-Release-armeabi-v7a": {
+      "artifactName": "sdl2_lib",
+      "abi": "armeabi-v7a",
+      "output": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\src\\main\\jniLibs\\armeabi-v7a\\libSDL2.so"
+    },
+    "main-Release-armeabi-v7a": {
+      "artifactName": "main",
+      "buildCommand": "E:\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\computerknowledge\\opengl\\sdlapp-master\\app\\.cxx\\cmake\\release\\armeabi-v7a --target main",
+      "abi": "armeabi-v7a",
+      "output": "E:\\computerknowledge\\opengl\\sdlapp-master\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libmain.so"
+    }
+  }
+}
